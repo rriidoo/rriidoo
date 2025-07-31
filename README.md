@@ -1,6 +1,7 @@
-![Preview](./images/bg.webp)
+<p align="center">
+  <img src="1320839.png" alt="Preview" width="3541" height="1384" />
+</p>
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/738748102311280681?&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..."></a>
 
 
 ### Hi!👋 I'm idoo
@@ -8,8 +9,8 @@
 *SUPER UNEMPLOYED OHIO FINAL BOSS*
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="140" src="./images/marin_kya.webp"></a>
-- Name: **Rido Sihombing,
+<a href="https://github.com/rriidoo"><img align="left" width="140" src="1335185.png"></a>
+- Name: **Rido Sihombing**
 - Residing in: **Indonesia**
 - Pronouns: **idoo**
 - Hobbies: **Playing Games**
@@ -17,7 +18,7 @@
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_sad.webp"></a>
+<a href="https://github.com/rriidoo"><img align="right" width="120" src="./images/marin_sad.webp"></a>
  Useless, lazy, unmotivated, and literally no survival skills in this society.
 
 
