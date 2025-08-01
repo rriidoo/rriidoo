@@ -4,27 +4,27 @@
 
 
 
-### Hi!👋 I'm idoo
+# Hi!👋 I'm idoo
 
 *SUPER UNEMPLOYED OHIO FINAL BOSS*
 
 ## **☕ About me**
-<a href="https://github.com/rriidoo"><img align="left" width="140" src="1335185.png"></a>
+<a href="https://github.com/rriidoo"><img align="left" height="140" src="1335185.png"></a>
 - Name: **Rido Sihombing**
 - Residing in: **Indonesia**
 - Pronouns: **idoo**
-- Hobbies: **Playing Games**
+- Hobbies: **Football**
 - Language: **Indonesia, English**
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/rriidoo"><img align="right" width="120" src="./images/marin_sad.webp"></a>
+<a href="https://github.com/rriidoo"><img align="right" width="120" src=""></a>
  Useless, lazy, unmotivated, and literally no survival skills in this society.
 
 
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiyagawaMizu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=rriidoo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rriidoo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 <!-- ## **🎧 Music**
@@ -46,6 +46,7 @@ Hehe~ another cutie has been caught.
 ``` -->
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
+<!--
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_smug.webp" /></a>
 **Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
 
@@ -59,3 +60,5 @@ Hehe~ another cutie has been caught.
 <!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu) -->
 <!-- [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu) -->
 <!-- [![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
+
+
