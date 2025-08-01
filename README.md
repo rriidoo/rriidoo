@@ -18,7 +18,7 @@
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/rriidoo"><img align="right" width="120" src=""></a>
+<a href="https://github.com/rriidoo"><img align="right" width="120" src="1335179.png"></a>
  Useless, lazy, unmotivated, and literally no survival skills in this society.
 
 
